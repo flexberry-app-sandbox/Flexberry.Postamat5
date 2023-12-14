@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-postamat5-хранение-e",
+  "editForm": "i-i-s-postamat5-хранение-e",
+  "external": false,
+  "caption": "Хранение",
+  "name": "IISPostamat5ХранениеL",
+  "className": "ХранениеL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-postamat5-хранение",
+      "modelProjection": "ХранениеL"
+    }
+  ]
+}

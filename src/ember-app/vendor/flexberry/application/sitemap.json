@@ -1,0 +1,57 @@
+﻿{
+  "applicationCaption": "Postamat5",
+  "applicationTitle": "Postamat5",
+  "items": [
+    {
+      "link": null,
+      "menuName": "postamat5",
+      "caption": "Postamat5",
+      "title": "Postamat5",
+      "children": [
+        {
+          "link": "i-i-s-postamat5-логистика-l",
+          "menuName": null,
+          "caption": "Логистика",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-postamat5-хранение-l",
+          "menuName": null,
+          "caption": "Хранение",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-postamat5-служба-доставки-l",
+          "menuName": null,
+          "caption": "Служба доставки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-postamat5-постамат-l",
+          "menuName": null,
+          "caption": "Постамат",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-postamat5-пользователь-l",
+          "menuName": null,
+          "caption": "Пользователь",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-postamat5-транзакция-l",
+          "menuName": null,
+          "caption": "Транзакция",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

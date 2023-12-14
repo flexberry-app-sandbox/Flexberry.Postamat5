@@ -40,25 +40,25 @@ export default Controller.extend({
             link: 'i-i-s-postamat5-служба-доставки-l',
             caption: i18n.t('forms.application.sitemap.postamat5.i-i-s-postamat5-служба-доставки-l.caption'),
             title: i18n.t('forms.application.sitemap.postamat5.i-i-s-postamat5-служба-доставки-l.title'),
-            icon: 'folder',
+            icon: 'folder open',
             children: null
           }, {
             link: 'i-i-s-postamat5-постамат-l',
             caption: i18n.t('forms.application.sitemap.postamat5.i-i-s-postamat5-постамат-l.caption'),
             title: i18n.t('forms.application.sitemap.postamat5.i-i-s-postamat5-постамат-l.title'),
-            icon: 'phone',
+            icon: 'table',
             children: null
           }, {
             link: 'i-i-s-postamat5-пользователь-l',
             caption: i18n.t('forms.application.sitemap.postamat5.i-i-s-postamat5-пользователь-l.caption'),
             title: i18n.t('forms.application.sitemap.postamat5.i-i-s-postamat5-пользователь-l.title'),
-            icon: 'archive',
+            icon: 'tags',
             children: null
           }, {
             link: 'i-i-s-postamat5-транзакция-l',
             caption: i18n.t('forms.application.sitemap.postamat5.i-i-s-postamat5-транзакция-l.caption'),
             title: i18n.t('forms.application.sitemap.postamat5.i-i-s-postamat5-транзакция-l.title'),
-            icon: 'tags',
+            icon: 'briefcase',
             children: null
           }]
         }
